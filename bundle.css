@@ -1,0 +1,19 @@
+body {
+  background-color:black;
+}
+
+.textarea {
+  margin: 40px 90px;
+  width: 400px;
+  height: 600px;
+  font-size: 1em;
+
+}
+
+.output {
+  background-color: white;
+}
+
+.top {
+  display: flex;
+}
